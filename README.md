@@ -1,11 +1,11 @@
 # pdfRaG
 
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 or
 
-pip install streamlit boto3 langchain faiss-cpu
+```pip install streamlit boto3 langchain faiss-cpu```
 
 
-streamlit run frontend.py
+```streamlit run frontend.py```
